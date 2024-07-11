@@ -1,0 +1,19 @@
+# Virtual environment directories
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# JetBrains IDEs
+.idea/
+
+# Log files
+*.log
+
+__pycache__
+
+*.py[cod]
+*$py.class
